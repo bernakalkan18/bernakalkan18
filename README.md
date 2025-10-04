@@ -25,12 +25,6 @@ Backend, Frontend ve Veri Bilimi ile ilgileniyorum. 🚀
 - [CharmeFrontend](https://github.com/bernakalkan18/charme_frontend_lts) — React, html, css ile frontend çalışması.
 
 ---
-- [DTO Deseni: Veri Aktarım Nesnesi Yazılımda Ne İşe Yarar ve Neden Kullanılır?](https://medium.com/@bernakalkann/dto-deseni-veri-aktar%C4%B1m-nesnesi-yaz%C4%B1l%C4%B1mda-ne-i%CC%87%C5%9Fe-yarar-ve-neden-kullan%C4%B1l%C4%B1r-bd951562bacb)  
-  Veri aktarım nesnelerinin yazılım mimarisindeki rolü ve kullanım avantajları üzerine bir yazım.
-
-- [HashMap'ın Anatomisi: Temelden Gelişmiş Konseptlere](https://medium.com/@bernakalkann/hashmapin-anatomisi-temelden-geli%C5%9Fmi%C5%9F-konseptlere-fc73570d0119)  
-  Java'da HashMap veri yapısının iç işleyişi ve gelişmiş kullanım senaryoları hakkında bir yazım.
-
 
 ## 📊 GitHub İstatistiklerim
  
@@ -44,3 +38,8 @@ Backend, Frontend ve Veri Bilimi ile ilgileniyorum. 🚀
 [![Medium](https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=FFFFFF)](https://medium.com/@bernakalkann)
 
 ---
+- [DTO Deseni: Veri Aktarım Nesnesi Yazılımda Ne İşe Yarar ve Neden Kullanılır?](https://medium.com/@bernakalkann/dto-deseni-veri-aktar%C4%B1m-nesnesi-yaz%C4%B1l%C4%B1mda-ne-i%CC%87%C5%9Fe-yarar-ve-neden-kullan%C4%B1l%C4%B1r-bd951562bacb)  
+  Veri aktarım nesnelerinin yazılım mimarisindeki rolü ve kullanım avantajları üzerine bir yazım.
+
+- [HashMap'ın Anatomisi: Temelden Gelişmiş Konseptlere](https://medium.com/@bernakalkann/hashmapin-anatomisi-temelden-geli%C5%9Fmi%C5%9F-konseptlere-fc73570d0119)  
+  Java'da HashMap veri yapısının iç işleyişi ve gelişmiş kullanım senaryoları hakkında bir yazım.
