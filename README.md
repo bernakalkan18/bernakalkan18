@@ -1,4 +1,4 @@
-# 👋 Merhaba, ben **Berna Kalkan (bernakalkan18)**
+# 👋 Merhaba, ben **Berna Kalkan**
 
 Bilgisayar mühendisliği öğrencisi • 
 Backend, Frontend ve Veri Bilimi ile ilgileniyorum. 🚀
