@@ -38,6 +38,7 @@ Backend, Frontend ve Veri Bilimi ile ilgileniyorum. 🚀
 [![Medium](https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=FFFFFF)](https://medium.com/@bernakalkann)
 
 ---
+[![Medium](https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=FFFFFF)](https://medium.com/@bernakalkann)
 - [DTO Deseni: Veri Aktarım Nesnesi Yazılımda Ne İşe Yarar ve Neden Kullanılır?](https://medium.com/@bernakalkann/dto-deseni-veri-aktar%C4%B1m-nesnesi-yaz%C4%B1l%C4%B1mda-ne-i%CC%87%C5%9Fe-yarar-ve-neden-kullan%C4%B1l%C4%B1r-bd951562bacb)  
   Veri aktarım nesnelerinin yazılım mimarisindeki rolü ve kullanım avantajları üzerine bir yazım.
 
