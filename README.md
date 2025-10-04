@@ -20,9 +20,9 @@ Backend, Frontend ve Veri Bilimi ile ilgileniyorum. 🚀
 
 ## 📌 Öne Çıkan Projeler
 
-- [ProjeAdı1](https://github.com/bernakalkan18/charme_backend_lts) — Bazı teknolojiler ile backend çalışması …  
-- [ProjeAdı2](https://github.com/bernakalkan18/sandbox-scraper) — Öğrenme amaçlı web scraping projesi …  
-- [ProjeAdı3](https://github.com/bernakalkan18/charme_frontend_lts) — React, html, css ile frontend çalışması …
+- [CharmeBackend](https://github.com/bernakalkan18/charme_backend_lts) — Bazı teknolojiler ile backend çalışması …  
+- [Sandbox-Scraper](https://github.com/bernakalkan18/sandbox-scraper) — Öğrenme amaçlı web scraping projesi …  
+- [CharmeFrontend](https://github.com/bernakalkan18/charme_frontend_lts) — React, html, css ile frontend çalışması …
 
 ---
 
